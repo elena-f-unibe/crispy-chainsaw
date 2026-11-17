@@ -1,7 +1,7 @@
-hello welcome to the about page 
+#hello welcome to the about page 
 
-how i did it: 
+##how i did it: 
 
 
-This repo is about jesus being female, or at least being depicted as female in medieval literature and arts
+##This repo is about jesus being female, or at least being depicted as female in medieval literature and arts
 thanks to caroline walker bynum, 
